@@ -1,0 +1,74 @@
+.home-page {
+    padding: 20px;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header input {
+    width: 200px;
+    padding: 5px;
+  }
+  
+  .category-bar {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .category-btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: #ddd;
+    border-radius: 20px;
+    cursor: pointer;
+  }
+  
+  .article-list {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .article-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .article-item img {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+  }
+  
+  .popular-news {
+    margin-top: 30px;
+  }
+  
+  .popular-channels img {
+    width: 50px;
+    margin-right: 10px;
+  }
+  
+  .popular-news-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .popular-news-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .popular-news-item img {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+  }
+  
